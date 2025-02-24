@@ -6,7 +6,7 @@
 
 ## インストール
 
-### ComfyUI (Experimental)
+### ComfyUI
 
 下記の二通りからお好きな方法でインストールしてください。
 
