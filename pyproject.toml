@@ -1,14 +1,14 @@
 [project]
 name = "keep-multiple-tabs"
 description = "This is an extension for ComfyUI. It retains multiple workflow tabs so that they are not lost when reloading or restarting."
-version = "1.0.0"
-license = {file = "LICENSE"}
+version = "0.0.1"
+license = { text = "MIT License" }
 
 [project.urls]
 Repository = "https://github.com/Taremin/comfyui-keep-multiple-tabs"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "taremin"
 DisplayName = "comfyui-keep-multiple-tabs"
 Icon = ""
