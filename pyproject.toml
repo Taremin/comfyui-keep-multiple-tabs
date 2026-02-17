@@ -1,7 +1,7 @@
 [project]
 name = "keep-multiple-tabs"
 description = "This is an extension for ComfyUI. It retains multiple workflow tabs so that they are not lost when reloading or restarting."
-version = "0.0.1"
+version = "0.0.2"
 license = { text = "MIT License" }
 
 [project.urls]
